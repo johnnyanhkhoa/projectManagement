@@ -1,11 +1,12 @@
-# projectManagement
+
+# Project Management
 
 Project Description
+
 The "Project Management with Django" project is a simple project management system built using the Django Framework and Django Rest Framework. This project aims to streamline project management for organizations and teams by providing essential project management features in a user-friendly interface.
 
 
-
-Main Goals
+## Main Goals
 The primary goals of the project are:
 
 Efficient Project Management:
@@ -23,19 +24,13 @@ Support APIs for seamless integration with other applications and provide a flex
 Agile and Scalable:
 
 Design with a flexible and scalable architecture to meet the specific needs of each organization.
-
-
-
-Setup
+## Setup
 Installation
 pip install -r requirements.txt
 
 Configuration
 Configure the project settings, including database setup, environment variables, and any other necessary configurations.
-
-
-
-Usage
+## Usage
 API Endpoints
 Explore and interact with the project through the following API endpoints:
 
@@ -50,10 +45,7 @@ Explore and interact with the project through the following API endpoints:
 /api/projects/<project_id>/: Retrieve, update, and delete a specific project.
 /api/tasks/: CRUD operations for tasks.
 /api/tasks/<task_id>/: Retrieve, update, and delete a specific task.
-
-
-
-Features
+## Features
 Efficient Project Management:
 
 Create, update, and track projects and tasks.
@@ -72,3 +64,8 @@ API support for easy integration with other applications.
 Designed with a flexible and scalable architecture.
 Contribution
 Contributions to the project are welcome. Please follow the contribution guidelines and pull request procedures.
+## Support
+
+For support, email johnnyanhkhoa@gmail.com
+
+
